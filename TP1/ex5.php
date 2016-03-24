@@ -1,4 +1,4 @@
-<?php include "factorielle.php" ?>
+ <?php include "factorielle.php" ?>
 <!doctype html>
 <html>
     <head>
